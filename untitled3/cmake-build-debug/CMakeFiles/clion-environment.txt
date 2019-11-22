@@ -1,4 +1,0 @@
-ToolSet: w64 6.0 (local)@D:\Codigitos.py\mingw32
-Options: 
-
-Options:
